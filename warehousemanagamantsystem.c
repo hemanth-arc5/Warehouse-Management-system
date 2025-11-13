@@ -146,7 +146,7 @@ void deleteItem() {
     struct Item item;
     while (fread(&item, sizeof(struct Item), 1, fp)) {
         if (item.id == id) {
-            found = 1; // Skip this item to delete it
+            found = 1; 
             continue;
         }
         fwrite(&item, sizeof(struct Item), 1, temp);
@@ -163,3 +163,4 @@ void deleteItem() {
         printf("Item not found!\n");
     }
 }
+
