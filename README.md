@@ -1,6 +1,6 @@
 # Warehouse Management System 
 
-Abstract
+## Abstract
 
 This project is a  **C-based Warehouse Management System** that uses file handling to store and manage item records. The system allows users to add, view, search, update, and delete inventory items using a binary data file.
 
@@ -86,5 +86,9 @@ gcc warehouse.c -o warehouse
 * Temporary file used during record deletion.
   
 --
+
+## Output photos
+
+
 
  
