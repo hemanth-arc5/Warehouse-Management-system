@@ -1,4 +1,6 @@
-# Warehouse Management System
+# Warehouse Management System 
+
+Abstract
 
 This project is a  **C-based Warehouse Management System** that uses file handling to store and manage item records. The system allows users to add, view, search, update, and delete inventory items using a binary data file.
 
@@ -42,7 +44,7 @@ This project is a  **C-based Warehouse Management System** that uses file hand
 
 The program uses a `struct Item` to represent each inventory record:
 
-```c
+
 struct Item {
     int id;
     char name[50];
@@ -85,24 +87,4 @@ gcc warehouse.c -o warehouse
   
 --
 
-##  Important Notes
-
-* Item names without spaces are recommended, unless modified to support multi-word input.
-* Duplicate item IDs are not checked in the base version.
-* Avoid editing `warehouse.dat` manually.
-
----
-
-##  Possible Enhancements
-
-* Prevent duplicate IDs.
-* Allow editing item name or price.
-* Support item names with spaces.
-* Sort items by ID, name, or price.
-* Replace binary storage with text/CSV or SQLite database.
-* Add colored menu interface.
-
----
-
-##
-
+ 
