@@ -97,19 +97,19 @@ gcc warehouse.c -o warehouse
 
  <img width="242" height="131" alt="Screenshot 2025-11-21 202050" src="https://github.com/user-attachments/assets/74ae3dba-9fe5-4e52-85ce-d4bba4d99af2" />
 
- ###**Display Items**
+ ### **Display Items**
 
  <img width="423" height="212" alt="Screenshot 2025-11-21 202544" src="https://github.com/user-attachments/assets/46705735-9e08-4edb-8aed-9a00ef248794" />
 
- ###**Search Item by ID**
+ ### **Search Item by ID**
 
  <img width="278" height="181" alt="Screenshot 2025-11-21 202228" src="https://github.com/user-attachments/assets/7f13078c-539e-4c48-9c46-f677f26f9c80" />
 
-###** Update Quantity**
+### ** Update Quantity**
 
 <img width="390" height="116" alt="Screenshot 2025-11-21 202741" src="https://github.com/user-attachments/assets/0bb715f6-3fbe-4839-85aa-76be7ab198f0" />
 
-###** Delete Item**
+### ** Delete Item**
 
 <img width="319" height="81" alt="Screenshot 2025-11-21 202818" src="https://github.com/user-attachments/assets/24be019c-f6a2-4570-8b6e-a6adab3d35e3" />
 
