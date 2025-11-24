@@ -85,7 +85,7 @@ gcc warehouse.c -o warehouse
 
 * Temporary file used during record deletion.
   
---
+---
  
 ## Output photos
 
