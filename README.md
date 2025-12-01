@@ -89,7 +89,7 @@ gcc warehouse.c -o warehouse
  
 ## Output photos
 
- ### **Main Menue**
+ ### **Main Menu**
 
    <img width="293" height="160" alt="Screenshot 2025-11-21 201415" src="https://github.com/user-attachments/assets/d82c1aa6-6647-43ae-8cb4-6ba8ae638694" />
 
